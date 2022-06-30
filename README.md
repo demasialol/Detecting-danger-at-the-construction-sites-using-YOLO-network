@@ -88,3 +88,14 @@ CCTV 나 드론같이 공간에 제약없이 어떠한 방식이던 유동적으
 <hr>
 시연 영상 <br><br>
 https://youtu.be/rRSA1cg0DXg
+<br><br>
+<hr>
+보고서 <br><br>
+
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20001.jpg?raw=true" align="center">
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20002.jpg?raw=true" align="center">
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20003.jpg?raw=true" align="center">
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20004.jpg?raw=true" align="center">
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20005.jpg?raw=true" align="center">
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20006.jpg?raw=true" align="center">
+<img src="https://github.com/demasialol/Detecting-danger-at-the-construction-sites-using-YOLO-network/blob/main/report%20007.jpg?raw=true" align="center">
