@@ -87,3 +87,4 @@ CCTV 나 드론같이 공간에 제약없이 어떠한 방식이던 유동적으
 <br><br>
 <hr>
 시연 영상 <br><br>
+https://youtu.be/rRSA1cg0DXg
